@@ -116,7 +116,7 @@ Deployed on Render.com in under 2 minutes:
 bashrender.com → New Web Service → Connect GitHub Repo → Deploy
 
 ## Developer & ML engenieer Enthusiast
-yamlName: Deepanshu Kashyap
+Name: Deepanshu Kashyap
 Role: Machine Learning Engineer & Full-Stack Developer
 Location: Maharashtra, India
 GitHub: https://github.com/DeepanshuKashyap02
