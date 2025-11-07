@@ -117,11 +117,17 @@ bashrender.com → New Web Service → Connect GitHub Repo → Deploy
 
 ## Developer & ML engenieer Enthusiast
 Name: Deepanshu Kashyap
+
 Role: Machine Learning Engineer & Full-Stack Developer
+
 Location: Maharashtra, India
+
 GitHub: https://github.com/DeepanshuKashyap02
+
 Portfolio: https://mywebsite700.vercel.app/
+
 LinkedIn: https://linkedin.com/in/deepanshukashyap02
+
 Email: deepanshukashyap02@gmail.com
 
 ## Disclaimer
