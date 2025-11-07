@@ -122,13 +122,13 @@ Role: Machine Learning Engineer & Full-Stack Developer
 
 Location: Maharashtra, India
 
-GitHub: https://github.com/DeepanshuKashyap02
+GitHub: https://github.com/DeepanshuKashyap531
 
 Portfolio: https://mywebsite700.vercel.app/
 
-LinkedIn: https://linkedin.com/in/deepanshukashyap02
+LinkedIn: https://www.linkedin.com/in/deepanshu577
 
-Email: deepanshukashyap02@gmail.com
+Email: deepanshukashyap531@gmail.com
 
 ## Disclaimer
 
