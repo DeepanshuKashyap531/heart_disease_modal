@@ -1,5 +1,3 @@
-# heart_disease_modal
-
 # CardioPredict Pro  
 **AI-Powered Heart Disease Prediction System**  
 **93% Accuracy** | Random Forest Classifier | Flask Web App
