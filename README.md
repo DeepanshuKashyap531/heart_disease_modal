@@ -132,7 +132,6 @@ It is not intended for actual medical diagnosis. Always consult a qualified doct
 ## Star this Project!
 
 If you like this work, please give it a star on GitHub!
-<img src="https://img.shields.io/github/stars/DeepanshuKashyap02/CardioPredict-Pro?style=social" alt="Star on GitHub">
 
 Built with passion, precision, and purpose.
 © 2025 Deepanshu Kashyap. All rights reserved.
